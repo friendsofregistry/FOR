@@ -7,9 +7,9 @@
 */
 /* Start Countdown Settings */
 
-var startDate = new Date("16/03/2014"); //THIS IS JUST FOR REFERENCE- DO NOT CHANGE THIS.
+var startDate = new Date("02/04/2014"); //THIS IS JUST FOR REFERENCE- DO NOT CHANGE THIS.
 
-var endDate = new Date("24/10/2015"); //CHANGE THIS TO YOUR LAUNCHING DATE
+var endDate = new Date("08/11/2015"); //CHANGE THIS TO YOUR LAUNCHING DATE
 
 var dif = endDate.getTime() - startDate.getTime();
 var difToSecond = dif / 1000;
