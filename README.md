@@ -1,26 +1,19 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# 2014 [Friends of Registry](https://www.friendsofregistry.ml) website
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+[Friends of Registry](https://www.friendsofregistry.ml) is a static page of UTP Registry support unit, it is develop to help the process in registry department. 
 
-## Getting Started
+## Official Documentation
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+No official documentation.
 
-## Bugs and Issues
+## Status
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+Site is closed. Discontinued by developer. 
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Main author : [NEONEXXA](https://github.com/neonexxa)
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+## License
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+This program is free software and is distributed under an [MIT License](https://github.com/friendsofregistry/friendsofregistry.github.io/blob/master/LICENSE).
